@@ -1,0 +1,17 @@
+body{
+  background-color: #B7EBEB;
+}
+.first{
+  height:40%;
+  width:80%;
+  background-color: white;
+  margin: auto;
+}
+.inner{
+  height:35%;
+  width:70%;
+  background-color: #0F382F;
+  font-family:fantasy;
+  color:white;
+  font-weight: 300;
+}
